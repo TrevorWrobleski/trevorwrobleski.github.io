@@ -4,11 +4,9 @@ I am an MPhil/PhD student at the London School of Economics in the statistics de
 
 # Education
 
-### London School of Economics and Political Science - Masters of Science
+### London School of Economics and Political Science - Master of Science
 ### Tsinghua University, Schwarzman College - Master of Management Sciences 
 ### Johns Hopkins University - Bachelor of Arts 
-
-# Experience
 
 # Projects
 Plott, C., Wrobleski, T.L., Sharfstein, J.M., and Thornton, R.L.J. (2021). Measuring Hospital Contributions to Community Health and Equity. Johns Hopkins Center for Health Equity. Bloomberg American Health Initiative.
