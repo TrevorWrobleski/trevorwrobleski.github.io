@@ -1,4 +1,4 @@
-## Introduction
+## Welcome
 
 I am an MPhil/PhD student in statistics at the London School of Economics. My research focuses on Bayesian analysis and machine learning methods as well as operations research for health, toxin, and biotech/pharmacological applications.
 
