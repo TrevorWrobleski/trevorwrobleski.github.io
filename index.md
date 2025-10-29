@@ -1,4 +1,4 @@
-[Home](index.md) | [Research](research.md) | [Projects](projects.md)
+[Home](index.md) | [Research](research.md) | [Projects & Awards](projects.md)
 
 ---
 
@@ -60,3 +60,4 @@ Outside of research, I enjoy running, tennis, hiking, reading, and playing piano
 You can contact me from my [university page](https://www.lse.ac.uk/statistics/people/trevor-wrobleski).
 
 ---
+
