@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* OVERRIDE DEFAULT BLUE */
+/* Current choice: Deep Academic Navy */
+a {
+  color: #153a5b;
+}
+
+a:visited {
+  color: #153a5b;
+}
+
+a:hover {
+  color: #0f2841; /* Slightly darker on hover */
+}
+
+/* OPTIONAL: Make the header font slightly more authoritative */
+h1, h2, h3, h4, h5, h6 {
+  color: #222; /* Soft black instead of harsh black */
+}
