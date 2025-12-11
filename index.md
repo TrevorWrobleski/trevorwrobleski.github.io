@@ -4,7 +4,7 @@
 
 ## Welcome  
 
-I am a Statistics PhD student at the London School of Economics, interested in using Bayesian methods, machine learning, and computational tools to solve complex problems in risk assessment, toxicology, and healthcare analytics. My advisors are Dr. Sara Geneletti and Dr. Francesca Panero. My research focuses on developing robust statistical models to improve decision-making in health, pharmacology/biotech, toxicology, and risk systems under uncertainty.
+I am a Statistics PhD candidate at the London School of Economics, interested in using Bayesian methods, machine learning, and computational tools to solve complex problems in risk assessment, toxicology, and healthcare analytics. My advisors are Dr. Sara Geneletti and Dr. Francesca Panero. My research focuses on developing robust statistical models to improve decision-making in health, pharmacology/biotech, toxicology, and risk systems under uncertainty.
 
 ---
 
@@ -63,5 +63,6 @@ Outside of research, I enjoy running, tennis, hiking, reading, and playing piano
 You can contact me from my [university page](https://www.lse.ac.uk/statistics/people/trevor-wrobleski).
 
 ---
+
 
 
