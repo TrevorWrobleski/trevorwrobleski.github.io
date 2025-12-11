@@ -3,20 +3,30 @@
 
 @import "{{ site.theme }}";
 
-/* Current choice: Slate Blue */
+/* OVERRIDE DEFAULT BLUE */
 a {
-  color: #4a6fa5;
+  color: #153a5b;
 }
 
 a:visited {
-  color: #4a6fa5;
+  color: #153a5b;
 }
 
 a:hover {
-  color: #153a5b; /* Slightly darker on hover */
+  color: #0f2841;
 }
 
-/* Update header font slightly */
-h1, h2, h3, h4, h5, h6 {
-  color: #222; /* Soft black*/
+/* FONT OVERRIDES */
+
+/* 1. Change the Main Title  */
+header h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700; 
+  letter-spacing: -0.5px; 
+  text-transform: uppercase; 
+}
+
+/* 2. Change the Body Text */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
