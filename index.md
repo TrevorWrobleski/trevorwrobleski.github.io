@@ -10,9 +10,14 @@ I am a Statistics PhD student at the London School of Economics, interested in u
 
 ## Research Interests
 
-- **Bayesian inference**, dose-response modeling, model averaging, Gaussian processes, probabilistic risk assessment, survival analysis
-- **Technical Skills**: R, Python, and SQL, with experience in Bayesian modeling (PyMC3, Stan) and machine learning (TensorFlow, PyTorch)
-- **Methodological Focus**: Uncertainty quantification, robust statistical inference, experimental design optimization, model selection and averaging
+**Statistical Methodology & Theory**
+* **Bayesian Model Averaging & Stacking:** Predictive distribution combination in M-open settings, scoring rules (log-score, CRPS), and coherency vs. predictive accuracy trade-offs.
+* **Optimal Experimental Design:** Locally D-optimal and c-optimal designs for non-linear models, resource allocation strategies ($N$ vs. $G$), and design robustness under overdispersion.
+* **Robust Inference:** Handling model misspecification, variance propagation in poly-$k$ survival adjustments, and quantifying bias in finite-sample BMD estimation.
+
+**Quantitative Risk Assessment**
+* **Dose-Response Modeling:** Hierarchical modeling of heterogeneity (chemicals/studies), benchmark dose (BMD) estimation, and derivation of empirical priors for regulatory science.
+* **Toxicology & Carcinogenicity:** Analyzing large-scale bioassay databases (CPDB), accounting for litter effects and differential mortality, and improving points of departure (PoD) for FDA/EMA submissions.
 
 ---
 
@@ -39,17 +44,15 @@ I am a Statistics PhD student at the London School of Economics, interested in u
 
 ---
 
-## Skills  
+## Skills
 
-**Statistical Methods**: Bayesian inference, MCMC, optimization, survival analysis, random effects models
-
-**Programming Languages**: R, Python, SQL
-
-**Bayesian Modeling**: PyMC3, Stan
-
-**Machine Learning**: TensorFlow, PyTorch, Scikit-learn  
-
-**Optimization**: Gurobi, CPLEX, PuLP  
+| Category | Proficiencies |
+| :--- | :--- |
+| **Statistical Methods** | Bayesian inference, Optimal experimental design, Hierarchical (mixed-effects) modeling, Survival analysis, MCMC |
+| **Programming** | R (Tidyverse, Shiny), Python (NumPy, Pandas), SQL, Git |
+| **Bayesian & ML** | Stan, PyMC3, TensorFlow, PyTorch, Scikit-learn |
+| **Optimization** | Gurobi, CPLEX, PuLP |
+| **Languages** | English (Native), French (Intermediate), Chinese (Mandarin/普通话) |
 
 ---
 
@@ -60,4 +63,5 @@ Outside of research, I enjoy running, tennis, hiking, reading, and playing piano
 You can contact me from my [university page](https://www.lse.ac.uk/statistics/people/trevor-wrobleski).
 
 ---
+
 
