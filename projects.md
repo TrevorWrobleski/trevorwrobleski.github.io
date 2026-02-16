@@ -74,8 +74,8 @@ An R package offering visualization palettes inspired by the pageantry of the Ke
 * **Gilman Scholarship** – Awarded for academic achievement to support research in Ghana.
 
 **Honors & Distinctions**
-* **Schwarzman College, Outstanding Capstone Award** – Recognition for Master's thesis excellence at Tsinghua University.
-* **Phi Beta Kappa** – Inducted into the nation's oldest academic honor society.
+* **Schwarzman College, Outstanding Capstone Award** – Recognition for Master's thesis at Tsinghua University.
+* **Phi Beta Kappa** – Inducted into the America's oldest academic honor society.
 * **University Honors** – Graduated with distinction from Johns Hopkins University.
 
 ---
