@@ -57,11 +57,12 @@ I am a Statistics PhD candidate at the London School of Economics, interested in
 
 ## About Me  
 
-Outside of research, I enjoy running, tennis, hiking, reading, writing, and playing piano. 
+Outside of research, I enjoy running, tennis, hiking, reading, writing, the ballet and opera, and playing piano. 
 
 You can contact me from my [university page](https://www.lse.ac.uk/statistics/people/trevor-wrobleski).
 
 ---
+
 
 
 
