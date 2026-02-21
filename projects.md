@@ -22,11 +22,14 @@ A rules-exact Monopoly simulation built on a Partially Observable Markov Decisio
 
 [View on GitHub](https://github.com/TrevorWrobleski/Vincero)
 
-### **Bayesian Search Optimization ("Battleship" Solver)**
-**Tech Stack:** Python, MCTS, Reinforcement Learning
-A predictive modeling project leveraging "expert" priors to optimize search efficiency for a hidden target.
-* **Methodology:** Uses Bayesian inference to combine expert input into a dynamic probability map.
-* **Algorithms:** Implements Greedy Search, Monte Carlo Tree Search (MCTS), and Information Gain metrics to balance the exploration-exploitation trade-off.
+### **Project Argos: Bayesian Search Optimization**
+**Tech Stack:** Python, NumPy, SciPy, Bayesian Model Averaging (BMA)
+A Bayesian Model Averaging engine for optimal search under uncertainty. Fuses competing expert hypotheses into a coherent probability map and dynamically allocates search effort to maximize target detection.
+* **Expert Fusion (BMA):** Implements M-open Bayesian Model Averaging (comparing multiplicative updating vs. log-score stacking) to dynamically weight expert priors based on accumulating search evidence.
+* **Allocation Strategies:** Evaluates sequential posterior updating against multiple search policies, including Greedy, Re-search Aware, Entropy-Minimizing, and custom Adaptive thresholding.
+* **Key Findings:** Demonstrates via Monte Carlo simulation that investing in prior quality strictly dominates allocation strategy optimization; equal-weight BMA successfully hedges against costly misdirection without sacrificing rapid detection times.
+
+[View on GitHub](https://github.com/TrevorWrobleski/Argos)
 
 ### **Context-Aware Translation Tool**
 **Tech Stack:** Python, OpenAI Whisper, Hugging Face Transformers (Helsinki-NLP Opus-MT), PyTorch, CustomTkinter
