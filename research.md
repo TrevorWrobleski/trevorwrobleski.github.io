@@ -14,10 +14,51 @@
 
 ## Presentations & Conference Talks
 
+### 2026
+
+**Empirical Priors for Benchmark Dose Estimation from a Hierarchical Analysis of the Carcinogenic Potency Database**  
+*Department of Statistics, London School of Economics, London, UK*  
+May 2026
+
+<details>
+<summary>View Abstract</summary>
+
+In Bayesian dose-response modeling, priors placed on native model parameters (scale and shape coefficients) induce an implicit prior on the benchmark dose (BMD) — a nonlinear functional of those parameters — that can penalize high-curvature dose-response shapes or leave the BMD poorly identified in sparse datasets. We propose a two-part solution: reparameterize dose-response models so the BMD enters as a primary parameter, decoupling potency from curvature in the prior structure, and derive an empirical prior for the BMD through a hierarchical analysis of the Carcinogenic Potency Database. After constructing a validated harmonization rule to incorporate NCI/NTP bioassay records alongside published literature, we analyze 4,754 experiments on 588 chemicals. A hierarchical logistic mixed-effects model decomposes heterogeneity into chemical-level, study-level, and chemical-specific slope variance components, establishing that between-chemical variation in dose-response steepness exceeds the population-average slope. A hierarchical Weibull model, reparameterized with BMD₁₀ as a latent chemical-level parameter under a shared population-level shape, yields the empirical prior ln(BMD₁₀ [g/kg]) ~ N(−4.20, 3.67²). Sensitivity analyses under Hill, logistic, and multistage-2 formulations show that the location and scale of the elicited distribution are stable across models with explicit curvature parameters but inflate under models that lack one. A series of case studies with three-way prior-sensitivity comparisons disentangle the contributions of reparameterization and prior information: in data-rich nonlinear settings, the reparameterization alone preserves the data-supported curve shape regardless of the BMD prior chosen, while in sparse settings the empirical prior provides the regularization that diffuse alternatives cannot. We discuss the computational compromises required at this scale — fixed background rates, a shared shape parameter, exclusion of confounded covariates — and their implications for the interpretation and application of the resulting prior.
+
+</details>
+
+---
+
+**Covariate-Dependent Forecast Combination via Stacked Gibbs Posterior Optimization**  
+*Schwarzman College, Tsinghua University, Beijing, China*  
+April 2026
+
+<details>
+<summary>View Abstract</summary>
+
+Combining probabilistic forecasts from multiple sources into a single ensemble presents a set of challenges: equal weighting ignores differences in model skill, Bayesian model averaging tends to concentrate mass on a single forecaster, and point-optimized weights provide no uncertainty quantification. We introduce the Covariate-Dependent Stacked Gibbs Posterior (CD-SGP), which replaces the global weight vector with covariate-dependent weights parameterized by a softmax gating network, allowing ensemble composition to adapt to observable context while inheriting the SGP's scoring-rule optimization and uncertainty quantification. In a regime-switching simulation, the CD-SGP improves upon the SGP by 15.6% in mean CRPS. On the FluSight data with normalized time as a single covariate, the CD-SGP achieves the best performance among all methods compared, learning interpretable weight dynamics that reveal how forecaster skill evolves over the flu season. The method's built-in shrinkage toward global weights ensures it cannot perform substantially worse than its static counterpart, making it a practical default for settings where the relative quality of competing forecasts may vary with context.
+
+</details>
+
+---
+
+**Efficient Bayesian Experimental Design for Benchmark Dose Estimation Under Overdispersion**  
+*Cumberland Lodge Retreat, Windsor, UK*  
+January 2026
+
+<details>
+<summary>View Abstract</summary>
+
+Benchmark dose (BMD) estimation is foundational to regulatory toxicology, yet standard experimental designs rarely account for the overdispersion that pervades real bioassay data. This talk presents results from a large-scale Bayesian simulation study that evaluates how three resource-allocation levers — dose placement strategy, total sample size (N), and number of dose groups (G) — jointly determine BMD estimation accuracy and precision under a Beta-Binomial data-generating process (φ = 10, ICC ≈ 0.09). Across 2,700 simulated experiments spanning six placement strategies, five group counts, and three sample sizes, we find that dose placement is the dominant driver of estimation accuracy: a D-Optimal design with N = 240 achieves roughly five-fold lower mean squared error than a conventional equally-spaced design with twice as many subjects. Increasing the number of dose groups yields substantial gains under efficient placement but marginal improvement under suboptimal designs, while increasing sample size alone offers diminishing returns without a sound allocation strategy. These findings reframe the traditional explore-versus-replicate trade-off and point toward design-first principles for more ethical and cost-efficient toxicology experiments. The talk concludes by situating these results within a broader inference pipeline, highlighting the complementary roles of likelihood specification, dose-group handling, and prior sensitivity in achieving robust BMD estimates.
+
+</details>
+
+---
+
 ### 2025
 
 **Robustness and Sensitivity in Bayesian Dose-Response Risk Assessment**  
-*Sapienza University of Rome, Italy*  
+*Sapienza University of Rome, Rome, Italy*  
 October 21, 2025 | Sala Corsi, Palazzina Presidenza
 
 <details>
