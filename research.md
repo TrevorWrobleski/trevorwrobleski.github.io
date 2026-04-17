@@ -16,8 +16,21 @@
 
 ### 2026
 
-**Empirical Priors for Benchmark Dose Estimation from a Hierarchical Analysis of the Carcinogenic Potency Database**  
+**Propagating Survival-Adjustment Uncertainty into Risk Analysis**
 *Department of Statistics, London School of Economics, London, UK*  
+May 2026
+
+<details>
+<summary>View Abstract</summary>
+
+Current benchmark dose (BMD) software treats the survival-adjusted denominators as fixed constants, ignoring the additional sampling variability. We develop a beta-binomial likelihood with group-specific overdispersion calibrated to the Bieler-Williams variance inflation, preserving standard BMD estimands while propagating survival-adjustment uncertainty. We extend this to a Bayesian framework with anchored priors on overdispersion and hierarchical pooling of dose-response shape across endpoints. Simulations show that naive binomial models maintain adequate coverage in many settings but exhibit positive bias under severe differential mortality. The variance-aware methods correct this bias and provide honest uncertainty quantification, while hierarchical pooling stabilizes inference for sparse endpoints.
+
+</details>
+
+---
+
+**Empirical Priors for Benchmark Dose Estimation from a Hierarchical Analysis of the Carcinogenic Potency Database**  
+*Research Showcase, London School of Economics, London, UK*  
 May 2026
 
 <details>
