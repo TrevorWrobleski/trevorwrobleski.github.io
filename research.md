@@ -97,6 +97,17 @@ The results demonstrate that the choice of dose placement strategy is a dominant
 
 ---
 
+## Conference Participation & Delegations
+
+**AFS Youth Assembly** – *Schwarzman Scholars Delegate*  
+*Geneva, Switzerland* | August 12-14, 2026
+
+**Adaptive and Bayesian Designs in Real Trials: Clinicians', Patients' and Statisticians' Perspectives**  
+*MRC Biostatistics Unit, University of Cambridge, Cambridge, UK* | June 5–6, 2025
+
+---
+
+
 ## Publications  
 
 **Bayesian Dose-Response Modeling for Toxicology Risk Assessment with Application to Antimony Trioxide**  
