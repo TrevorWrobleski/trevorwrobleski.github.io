@@ -44,6 +44,18 @@ I am a Statistics PhD candidate at the London School of Economics, interested in
 
 ---
 
+## Teaching
+
+**Graduate Teaching Assistant** – Department of Statistics, London School of Economics
+
+- **ST314 – Multilevel and Longitudinal Models**
+- **ST205 – Sample Surveys and Experiments**
+- **ST211 – Applied Linear and Logistic Regression** 
+
+*Highly Commended, LSE Teaching Award, 2026*
+
+---
+
 ## Skills
 
 | Category | Proficiencies |
