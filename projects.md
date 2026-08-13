@@ -31,10 +31,6 @@ A Bayesian Model Averaging engine for optimal search under uncertainty. Fuses co
 
 [View on GitHub](https://github.com/TrevorWrobleski/Argos)
 
-### **Context-Aware Translation Tool**
-**Tech Stack:** Python, OpenAI Whisper, Hugging Face Transformers (Helsinki-NLP Opus-MT), PyTorch, CustomTkinter
-An on-device, live application for transcribing and translating text between English and Chinese (Mandarin). Focuses on context retention to support real-time human interpretation.
-
 ---
 
 ## Applied Statistics & Modeling
@@ -58,6 +54,13 @@ A web application addressing data fragmentation in toxicology. ToxBase implement
 * **Impact:** Facilitates cross-study comparisons for regulatory submissions and enables robust meta-analyses for benchmark dose estimation.
 * **Research Relevance:** Directly supports my work in Bayesian prior elicitation by providing high-quality, structured data.
 [View on GitHub](https://github.com/TrevorWrobleski/ToxBase)
+
+### **Rexicon: Offline Live Interpretation Assistant (English ⇆ Chinese)**
+**Tech Stack:** Python, faster-whisper / CTranslate2 (int8), Helsinki-NLP opus-mt, SentencePiece, PortAudio, OpenCC, CustomTkinter
+A fully on-device desktop application (macOS/Windows) that transcribes live speech and returns paired source/translation rows, cut at natural pauses. Also handles recorded files.
+* **Utterance-Level Segmentation:** An energy-based voice activity detector with dual thresholds (a Schmitt trigger, ~4.4 dB apart), a 600 ms hangover, 200 ms pre-roll, and a 300 ms minimum duration cuts audio into disjoint utterances.
+* **Degeneration Control:** Whisper's looping and subtitle-artifact failure modes (markedly worse in Chinese) are handled at decode-time repetition penalty and n-gram blocking, compression-ratio and log-probability gating with temperature fallback, and conservative post-hoc cleanup.
+[View on GitHub - avaliable soon]
 
 ### **Kentucky Derby Color Palettes**
 **Tech Stack:** R, ggplot2
