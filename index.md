@@ -50,7 +50,7 @@ I am a Statistics PhD candidate at the London School of Economics, interested in
 
 - **ST314 – Multilevel and Longitudinal Models**
 - **ST205 – Sample Surveys and Experiments**
-- **ST211 – Applied Linear and Logistic Regression** 
+- **ST211 – Applied Linear and Logistic Regression** [workshop compendium](https://github.com/TrevorWrobleski/LinearLogisticRegression)
 
 *Highly Commended, LSE Teaching Award, 2026*
 
