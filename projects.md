@@ -77,6 +77,7 @@ An R package offering visualization palettes inspired by the pageantry of the Ke
 * **Gilman Scholarship** – Awarded for academic achievement to support research in Ghana.
 
 **Honors & Distinctions**
+* **LSE Teaching Award, Highly Commended** – Recognition for excellence in undergraduate teaching, 2026.
 * **Schwarzman College, Outstanding Capstone Award** – Recognition for Master's thesis at Tsinghua University.
 * **Phi Beta Kappa** – Inducted into the America's oldest academic honor society.
 * **University Honors** – Graduated with distinction from Johns Hopkins University.
