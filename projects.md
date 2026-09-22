@@ -60,7 +60,7 @@ A web application addressing data fragmentation in toxicology. ToxBase implement
 A fully on-device desktop application (macOS/Windows) that transcribes live speech and returns paired source/translation rows, cut at natural pauses. Also handles recorded files.
 * **Utterance-Level Segmentation:** An energy-based voice activity detector with dual thresholds (a Schmitt trigger, ~4.4 dB apart), a 600 ms hangover, 200 ms pre-roll, and a 300 ms minimum duration cuts audio into disjoint utterances.
 * **Degeneration Control:** Whisper's looping and subtitle-artifact failure modes (markedly worse in Chinese) are handled at decode-time repetition penalty and n-gram blocking, compression-ratio and log-probability gating with temperature fallback, and conservative post-hoc cleanup.
-[View on GitHub - avaliable soon]
+[View Project Page](https://trevorwrobleski.github.io/rexicon_dev.github.io/) *(source release pending)*
 
 ### **Kentucky Derby Color Palettes**
 **Tech Stack:** R, ggplot2
